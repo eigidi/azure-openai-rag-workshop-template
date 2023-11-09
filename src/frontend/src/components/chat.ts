@@ -403,7 +403,7 @@ export class ChatComponent extends LitElement {
   static override styles = css`
     :host {
       /* Base properties */
-      --primary: var(--azc-primary, #07f);
+      --primary: var(--azc-primary, #33dd5b);
       --error: var(--azc-error, #e30);
       --text-color: var(--azc-text-color, #000);
       --text-invert-color: var(--azc--text-invert-color, #fff);
